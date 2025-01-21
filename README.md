@@ -39,3 +39,48 @@ The **Social Network Ad Prediction** project demonstrates the application of mac
    ```bash
    git clone https://github.com/your-username/social-network-ad-prediction.git
    cd social-network-ad-prediction
+
+2. Install required libraries:
+
+```bash
+pip install -r requirements.txt
+
+3. Ensure the dataset file
+ (e.g., Social_Network_Ads.csv) is available in the data/ directory.
+
+## **Usage**
+1. Run the notebook file (Social_network_add.ipynb) using Jupyter Notebook or Google Colab.
+2. Experiment with different models and hyperparameters to analyze performance.
+3. Review generated plots for insights on feature importance and predictions.
+
+**Dataset**
+The dataset contains the following attributes:
+
+1. Age: Age of the user.
+2. Estimated Salary: Annual estimated income.
+3. Purchased: Binary target indicating whether the ad was clicked.
+
+Download or use the dataset provided in the repository under data/
+
+**## Contributing
+Contributions are welcome! Please:
+
+1. Fork the repository.
+2. Create a feature branch
+git checkout -b feature-name
+
+3.Commit your changes:
+git commit -m "Add feature name"
+
+4.Push to the branch:
+git push origin feature-name
+
+5.Create a Pull Request.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
+
+
