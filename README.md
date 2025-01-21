@@ -48,12 +48,12 @@ pip install -r requirements.txt
 3. Ensure the dataset file
  (e.g., Social_Network_Ads.csv) is available in the data/ directory.
 
-## **Usage**
+## Usage
 1. Run the notebook file (Social_network_add.ipynb) using Jupyter Notebook or Google Colab.
 2. Experiment with different models and hyperparameters to analyze performance.
 3. Review generated plots for insights on feature importance and predictions.
 
-**Dataset**
+Dataset
 The dataset contains the following attributes:
 
 1. Age: Age of the user.
@@ -62,7 +62,7 @@ The dataset contains the following attributes:
 
 Download or use the dataset provided in the repository under data/
 
-**## Contributing
+## Contributing
 Contributions are welcome! Please:
 
 1. Fork the repository.
